@@ -24,7 +24,7 @@ Semua Koin Berhasil Di Kumpulkan
 - Gerakkan Mouse Untuk Membantu Mengganti View Angle Camera
 
 ## Assets
-
+https://drive.google.com/drive/folders/1tbZLJ91V3NQAS9KUBB0sZKUTIOPhU6h2?usp=sharing
 
 ## Technology Stack
 - Blender
@@ -33,9 +33,8 @@ Semua Koin Berhasil Di Kumpulkan
 - Figma
 
 ## Informasi Proyek
-
-## Asset
-https://drive.google.com/drive/folders/1tbZLJ91V3NQAS9KUBB0sZKUTIOPhU6h2?usp=sharing
+Laporan       : https://docs.google.com/document/d/1kmeK55wk8navJRwsDfI_vIklGrGjNbBhW7yaXn2AWZw/edit?usp=sharing
+Video trailer : https://drive.google.com/file/d/1CqlZ8t4c82pEp6hrQTyF2a89Cje6-f6_/view?usp=sharing
 
 ## Tampilan Game
 Home Screen 
