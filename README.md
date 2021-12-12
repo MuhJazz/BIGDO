@@ -47,5 +47,3 @@ Saat Game Baru Dimulai
 Saat Mengumpulkan Koin
 ![image](https://user-images.githubusercontent.com/78836730/145711998-bc87c5cc-de9b-42dc-b684-78d97513c311.png)
 
-Saat Semua Koin Telah Terkumpul 
-![image](https://user-images.githubusercontent.com/78836730/145712113-47e6f0fc-6144-40e1-bcc9-e650752231d0.png)
