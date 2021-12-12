@@ -34,6 +34,8 @@ Semua Koin Berhasil Di Kumpulkan
 
 ## Informasi Proyek
 
+## Asset
+https://drive.google.com/drive/folders/1tbZLJ91V3NQAS9KUBB0sZKUTIOPhU6h2?usp=sharing
 
 ## Tampilan Game
 Home Screen 
