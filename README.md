@@ -38,12 +38,7 @@ Laporan       : https://docs.google.com/document/d/1kmeK55wk8navJRwsDfI_vIklGrGj
 Video trailer : https://drive.google.com/file/d/1CqlZ8t4c82pEp6hrQTyF2a89Cje6-f6_/view?usp=sharing
 
 ## Tampilan Game
-Home Screen 
 ![image](https://user-images.githubusercontent.com/78836730/145711942-c511fda0-2d8a-43d0-9601-0cf21f2f1f59.png)
-
-Saat Game Baru Dimulai
 ![image](https://user-images.githubusercontent.com/78836730/145711972-62267b4d-ad5c-4f4b-8ab3-f35f356c66df.png)
-
-Saat Mengumpulkan Koin
 ![image](https://user-images.githubusercontent.com/78836730/145711998-bc87c5cc-de9b-42dc-b684-78d97513c311.png)
 
